@@ -20,7 +20,7 @@ UCSD Ped1 Dataset
 📊 UCSD Ped2 Dataset
 
 The UCSD Ped2 dataset is an enhanced version of Ped1, also recorded from fixed cameras overlooking different pedestrian walkways. Abnormal behaviors include riding bicycles, skateboards, or other unusual movements in a pedestrian area. Ped2 is often used to test the generalization of models trained on Ped1.
-
+http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm
 Features:
 
 Videos at moderate resolution
